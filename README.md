@@ -24,3 +24,8 @@ fbprohet, arima, regression linéaire.
 # Resultat
 
 best rmse: ~0.10
+
+
+# Note
+
+le note book est en phase de nettoyage
