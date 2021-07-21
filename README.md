@@ -1,7 +1,7 @@
 # Fouille-de-donnee-et-extraction-des-connaissances
 
 
-#Objectifs du projet
+# Objectifs du projet
 
 
 Clustering de séries temporelles journalières (par exemple, la classification de journéestype en fonction 
